@@ -2,8 +2,8 @@
 A 3D Shooter game with different types of enemy that chases the player down. Survive and score points by killing them.
 
 ## Game Description
-![](filename.gif)
-![](filename.gif)
+![](Gameplay.gif)
+![](Options.gif)
 
 - Player can sprint and move around the area of the map
 - Player shoots laser beam (using raycast)
